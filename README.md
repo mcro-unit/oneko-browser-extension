@@ -8,7 +8,7 @@ While the original `oneko.js` was a script to be included on a single website, t
 
 ## Demo
 
-![Demo of the Cursor Cat extension](./assets/oneko.gif)
+![Demo of the Cursor Cat extension](./assets/demo.gif)
 
 ## How to Install
 
