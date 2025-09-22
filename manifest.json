@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Cursor Cat (Oneko)",
+  "version": "1.0",
+  "description": "A cute cat that chases your cursor 🐱",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["oneko.js"],
+      "css": ["styles.css"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["assets/*"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}

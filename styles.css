@@ -1,0 +1,8 @@
+#oneko {
+  position: fixed;
+  width: 32px;
+  height: 32px;
+  pointer-events: none;
+  z-index: 999999;
+  image-rendering: pixelated;
+}
